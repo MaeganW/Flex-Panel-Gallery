@@ -51,6 +51,11 @@ body, * {
     justify-content: space-around;
 }
 
+.panel.open {
+    flex: 5;
+    font-size: 40px;
+}
+
 .panel > *:first-child {
     transform: translateY(-100%);
 }
