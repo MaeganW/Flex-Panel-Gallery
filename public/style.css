@@ -74,23 +74,23 @@ body, * {
 }
 
 .panel1 {
-    background-image: url('./img/clem-onojeghuo-245626.jpg');
+    background-image: url('../img/clem-onojeghuo-245626.jpg');
 }
 
 .panel2 {
-    background-image: url('./img/hiep-nguyen-410749.jpg');
+    background-image: url('../img/hiep-nguyen-410749.jpg');
 }
 
 .panel3 {
-    background-image: url('./img/casey-horner-353950.jpg');
+    background-image: url('../img/casey-horner-353950.jpg');
 }
 
 .panel4 {
-    background-image: url('./img/matthew-kane-376554.jpg');
+    background-image: url('../img/matthew-kane-376554.jpg');
 }
 
 .panel5 {
-    background-image: url('./img/james-donaldson-365418.jpg');
+    background-image: url('../img/james-donaldson-365418.jpg');
 }
 
 .panels p {
